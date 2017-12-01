@@ -1,3 +1,39 @@
 .monster {
   display: none;
 }
+
+body {
+  background-image: url("../img/kiss.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #e0e1e2;
+  color: #5008a3;
+  text-shadow:  -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+button {
+  background-color: #5008a3 !important;
+  color: white !important;
+}
+
+.monster p {
+  font-size: 30px;
+  text-align: center;
+}
+
+.monster img {
+  margin-left: 30%;
+}
+
+h1 {
+  text-align: center;
+}
+
+object {
+  margin-left: 35%;
+}
+
+p {
+  text-align: center;
+}
